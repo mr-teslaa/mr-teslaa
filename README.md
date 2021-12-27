@@ -1,19 +1,15 @@
-### Hi there 👋
+### Hi there 👋 and Salam
 
-<!--
-**mr-teslaa/mr-teslaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am Hossain Foysal. A self-taught Full-Stack software engineer from Bangladesh.  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Building My Own Company
+- 🌱 I’m currently learning Vue, Vuetify, Vuex, Django, Flutter
+- 👯 I’m looking to collaborate on any Web Development related project
+- 🤔 I’m looking for help with Docker, Kubernetes and my open source School Management System with Flask [Click Here](https://github.com/mr-teslaa/Junior_School_and_College)
+- 💬 Ask me about anything related Web Dev, Cyber Security
+- 📫 How to reach me: mr.teslaa@protonmail.com
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-teslaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-teslaa&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
