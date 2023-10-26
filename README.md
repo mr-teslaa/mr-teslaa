@@ -4,7 +4,7 @@
 
 <img src="https://hossainfoysal.com/static/img/social-media-banner-hossainfoysal.com.jpg" alt="hossain foysal; hossain foysal full stack developer; hossain foysal bangladesh"/>
 
-- 🔭 I’m currently working on Building My Own Company https://BinoMatrix.com
+- 🔭 I’m currently working on Building My Own Software Agency https://BinoMatrix.com
 - 🌱 I’m currently learning Vue, Vuetify, Vuex    <!-- - , Django, Flutter -->
 - 👯 I’m looking to collaborate on any Web Development related project
 - 🤔 I’m looking for help with AI, ML, Docker, Kubernetes
