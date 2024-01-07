@@ -1,10 +1,11 @@
 ## Hi there 👋 and Salam
 
-### I am Hossain Foysal. A self-taught Full-Stack software engineer from Bangladesh.  
+### I am Hossain Foysal. A self-taught Software Engineer, Startup CEO from Bangladesh.
 
 <img src="https://hossainfoysal.com/static/img/social-media-banner-hossainfoysal.com.jpg" alt="hossain foysal; hossain foysal full stack developer; hossain foysal bangladesh"/>
 
-- 🔭 I’m currently working on Building My Own Software Agency https://BinoMatrix.com
+- 🔭 I’m currently working on Building My Startup http://fncomerce.com
+- 💻 I'm currently operating my Own Software Agency https://BinoMatrix.com
 - 🌱 I’m currently learning Systems Architecture, AWS
 - 👯 I’m looking to collaborate on any Web Development related project
 - 🤔 I’m looking for help with AI, ML, Docker, Kubernetes
